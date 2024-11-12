@@ -1,0 +1,84 @@
+{
+  "stagiaires": [
+    {
+      "cef": "100001",
+      "nom": "Mohammed",
+      "prenom": "Ahmed",
+      "email": "ahmed@example.com",
+      "annee": "1A",
+      "niveau": "TS"
+    },
+    {
+      "cef": "100002",
+      "nom": "Ali",
+      "prenom": "Hassan",
+      "email": "ali@example.com",
+      "annee": "1A",
+      "niveau": "TS"
+    },
+    {
+      "cef": "100003",
+      "nom": "Fatima",
+      "prenom": "Khaled",
+      "email": "fatima@example.com",
+      "annee": "1A",
+      "niveau": "TS"
+    },
+    {
+      "cef": "100004",
+      "nom": "Sara",
+      "prenom": "Mohammed",
+      "email": "sara@example.com",
+      "annee": "1A",
+      "niveau": "TS"
+    },
+    {
+      "cef": "100005",
+      "nom": "Youssef",
+      "prenom": "Salem",
+      "email": "youssef@example.com",
+      "annee": "1A",
+      "niveau": "TS"
+    },
+    {
+      "cef": "100006",
+      "nom": "Khadija",
+      "prenom": "Imad",
+      "email": "khadija@example.com",
+      "annee": "1A",
+      "niveau": "TS"
+    },
+    {
+      "cef": "100007",
+      "nom": "Omar",
+      "prenom": "Ayman",
+      "email": "omar@example.com",
+      "annee": "1A",
+      "niveau": "TS"
+    },
+    {
+      "cef": "100008",
+      "nom": "Mariam",
+      "prenom": "Karim",
+      "email": "mariam@example.com",
+      "annee": "1A",
+      "niveau": "TS"
+    },
+    {
+      "cef": "100009",
+      "nom": "Ibrahim",
+      "prenom": "Zine El Abidine",
+      "email": "ibrahim@example.com",
+      "annee": "1A",
+      "niveau": "TS"
+    },
+    {
+      "cef": "100010",
+      "nom": "Imane",
+      "prenom": "Reda",
+      "email": "iman@example.com",
+      "annee": "1A",
+      "niveau": "TS"
+    }
+  ]
+}
